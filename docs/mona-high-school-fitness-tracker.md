@@ -3,16 +3,7 @@
 ## Explain to GitHub Copilot the goals and steps
 
 ```text
-I want to build an monafit Tracker app that will include the following:
-
-* User authentication and profiles
-* Activity logging and tracking
-* Team creation and management
-* Competitive leader board
-* Personalized workout suggestions
-
-It should be in one app
-
+I
 generate instructions in this order
 
 1. Create the frontend and backend in the monafit-tracker directory structure of this repository in one command
